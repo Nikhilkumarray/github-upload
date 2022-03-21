@@ -1,0 +1,16 @@
+nav{
+   background-color: gray;
+    height: 6vh ;
+    border-radius:5px ;
+    }
+nav h1{
+    color: antiquewhite;
+    padding: 6px;
+}
+nav h2{
+    background-color: whitesmoke;
+    width: 80px;
+    height: 4vh;
+    border-radius: 10px; 
+    margin: -125px 100px 300px 700px;
+}
